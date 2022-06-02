@@ -3,7 +3,6 @@ import telebot
 import sitescrap
 API_Key=os.getenv('API_KEY')
 bot=telebot.TeleBot(API_Key)
-print(API_Key)
 try:
 
 
